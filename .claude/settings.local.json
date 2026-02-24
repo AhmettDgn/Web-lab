@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add src/App.tsx)",
+      "Bash(git commit:*)",
+      "Bash(/c/Users/HP/Desktop/weblab/web-lab-hello/README.md:*)"
+    ]
+  }
+}
